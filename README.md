@@ -1,2 +1,2 @@
 # hello-word
-Bio designer
+Bio-designer
